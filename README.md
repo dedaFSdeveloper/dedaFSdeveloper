@@ -38,16 +38,9 @@ Construyo aplicaciones full stack e integraciones de APIs — desde CRMs conecta
 
 ---
 
-### 📌 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [crm-whatsapp-api](https://github.com/dedaFSdeveloper/crm-whatsapp-api) | CRM conectado a WhatsApp Business API para gestión de clientes | JavaScript, Node.js |
-| [API-rest-tiendanube](https://github.com/dedaFSdeveloper/API-rest-tiendanube) | Integración con la API REST de Tiendanube para gestión de e-commerce | Python |
-| [Maqueta-Inventario-Django](https://github.com/dedaFSdeveloper/Maqueta-Inventario-Django-) | Sistema de inventario y facturación construido con Django | Python, Django |
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dedaFSdeveloper&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
+📌 Proyectos destacados
+Proyecto	Descripción	Stack
+ProyectoM4 — Task Manager	SPA de gestión de tareas con auth, notificaciones por email y deploy en producción (demo en vivo)	React, TypeScript, Firebase, AWS SES, Vitest
+ProyectoM5 — GitHub MCP Server	Servidor MCP que permite a agentes de IA operar sobre GitHub (repos, issues, PRs) usando lenguaje natural	TypeScript, Node.js, Octokit, Zod
+crm-whatsapp-api	CRM conectado a WhatsApp Business API para gestión de clientes	JavaScript, Node.js
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dedaFSdeveloper&show_icons=true&theme=default" alt="GitHub stats" /> </p>
