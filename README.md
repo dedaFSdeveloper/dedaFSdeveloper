@@ -10,8 +10,8 @@ Construyo aplicaciones full stack e integraciones de APIs — desde CRMs conecta
 ### 🚀 Sobre mí
 
 - 🔭 Actualmente buscando mi primera oportunidad como Full Stack Developer
-- 💻 Me especializo en construir integraciones entre sistemas (APIs de e-commerce, mensajería, gestión)
-- 🌱 Sumando Docker y TypeScript a mi día a día
+- 💻 Construyo aplicaciones full stack con React/TypeScript y backends con Node.js, y me interesan las integraciones entre sistemas (WhatsApp Business, e-commerce, servidores MCP)
+- 🌱 Sumando Docker y arquitecturas cloud a mi día a día
 - 📍 Buenos Aires, CABA — abierto a remoto e híbrido
 - 📫 Contacto: [agregá tu email o LinkedIn acá]
 
@@ -38,9 +38,16 @@ Construyo aplicaciones full stack e integraciones de APIs — desde CRMs conecta
 
 ---
 
-📌 Proyectos destacados
-Proyecto	Descripción	Stack
-ProyectoM4 — Task Manager	SPA de gestión de tareas con auth, notificaciones por email y deploy en producción (demo en vivo)	React, TypeScript, Firebase, AWS SES, Vitest
-ProyectoM5 — GitHub MCP Server	Servidor MCP que permite a agentes de IA operar sobre GitHub (repos, issues, PRs) usando lenguaje natural	TypeScript, Node.js, Octokit, Zod
-crm-whatsapp-api	CRM conectado a WhatsApp Business API para gestión de clientes	JavaScript, Node.js
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dedaFSdeveloper&show_icons=true&theme=default" alt="GitHub stats" /> </p>
+### 📌 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [ProyectoM4 — Task Manager](https://github.com/dedaFSdeveloper/ProyectoM4-EzequielMolinari) | SPA de gestión de tareas con auth, notificaciones por email y deploy en producción ([demo en vivo](https://proyecto-m4-ezequiel-molinari.vercel.app)) | React, TypeScript, Firebase, AWS SES, Vitest |
+| [ProyectoM5 — GitHub MCP Server](https://github.com/dedaFSdeveloper/ProyectoM5-Ezequiel-Molinari) | Servidor MCP que permite a agentes de IA operar sobre GitHub (repos, issues, PRs) usando lenguaje natural | TypeScript, Node.js, Octokit, Zod |
+| [crm-whatsapp-api](https://github.com/dedaFSdeveloper/crm-whatsapp-api) | CRM conectado a WhatsApp Business API para gestión de clientes | JavaScript, Node.js |
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dedaFSdeveloper&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
