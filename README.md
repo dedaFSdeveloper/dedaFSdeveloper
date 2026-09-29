@@ -13,7 +13,8 @@ Construyo aplicaciones full stack e integraciones de APIs — desde CRMs conecta
 - 💻 Construyo aplicaciones full stack con React/TypeScript y backends con Node.js, y me interesan las integraciones entre sistemas (WhatsApp Business, e-commerce, servidores MCP)
 - 🌱 Sumando Docker y arquitecturas cloud a mi día a día
 - 📍 Buenos Aires, CABA — abierto a remoto e híbrido
-- 📫 Contacto: [agregá tu email o LinkedIn acá]
+- 📫 Contacto: molinariezequiel2@gmail.com https://www.linkedin.com/in/ezmolinari12/ 
+
 
 ---
 
