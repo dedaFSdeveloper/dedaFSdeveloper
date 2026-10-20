@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Developer · AI & Automation | Buenos Aires, Argentina 🇦🇷</h3>
 
 <p align="center">
-I build and ship production systems: AI-powered WhatsApp CRMs, API integrations and Python automations that solve real business problems.<br>
-Construyo y mantengo sistemas en producción: CRMs con IA para WhatsApp, integraciones de APIs y automatizaciones con Python.
+I build real systems: AI-powered WhatsApp CRMs, API integrations and Python automations that solve real business problems.<br>
+Construyo sistemas reales: CRMs con IA para WhatsApp, integraciones de APIs y automatizaciones con Python.
 </p>
 
 <p align="center">
@@ -51,8 +51,9 @@ Construyo y mantengo sistemas en producción: CRMs con IA para WhatsApp, integra
 | [github-mcp-server](https://github.com/dedaFSdeveloper/github-mcp-server) | MCP server so AI agents operate on GitHub (repos, issues, PRs) in natural language. 26 tests | TypeScript, Node.js, Octokit, Zod, Vitest |
 | [task-manager](https://github.com/dedaFSdeveloper/task-manager) | Task SPA with auth and email notifications — [live demo](https://proyecto-m4-ezequiel-molinari.vercel.app) | React, TypeScript, Firebase, AWS SES, Vitest |
 | [inventario-django](https://github.com/dedaFSdeveloper/inventario-django) | Inventory management app | Django, Python |
+| [ai-character-chat](https://github.com/dedaFSdeveloper/ai-character-chat) | Chat with fictional characters using Google Gemini — [live demo](https://proyecto-m3-ezequiel-molinari-ycvj.vercel.app) | Node.js, Gemini, Vercel |
 | [gestion-productos](https://github.com/dedaFSdeveloper/gestion-productos) | Product management REST API with CRUD, search, stock | NestJS, TypeORM, PostgreSQL |
-| [ai-sales-chat-prototype](https://github.com/dedaFSdeveloper/ai-sales-chat-prototype) | Conversational AI sales assistant prototype | Next.js, Gemini |
+| [ai-sales-chat-prototype](https://github.com/dedaFSdeveloper/ai-sales-chat-prototype) | Conversational AI sales assistant prototype — [live demo](https://llmtesting.vercel.app) | Next.js, Gemini |
 
 ---
 
