@@ -16,6 +16,7 @@ Construyo sistemas reales: CRMs con IA para WhatsApp, integraciones de APIs y au
 
 ### 🚀 About me · Sobre mí
 
+- 🟢 **Now:** building and running a **WhatsApp AI agent (Gemini)** in production for a client: 100+ messages a day, lead qualification and hand-off to the sales team through a CRM.
 - 💼 End-to-end production experience: built a **CRM for AI-powered WhatsApp chatbots** (WhatsApp Business API + LLMs) at GloboTechAI.
 - ⚙️ Automated bulk product upload for **[Librería Crayon](https://libreriacrayon.com.ar)** with Python + Tiendanube API, removing a fixed monthly cost (~ARS 30,000) and hours of manual work.
 - 🤖 Interested in AI inside developer workflows (MCP servers, agents, LLM integrations).
@@ -52,7 +53,7 @@ Construyo sistemas reales: CRMs con IA para WhatsApp, integraciones de APIs y au
 | [task-manager](https://github.com/dedaFSdeveloper/task-manager) | Task SPA with auth and email notifications — [live demo](https://proyecto-m4-ezequiel-molinari.vercel.app) | React, TypeScript, Firebase, AWS SES, Vitest |
 | [inventario-django](https://github.com/dedaFSdeveloper/inventario-django) | Inventory management app | Django, Python |
 | [ai-character-chat](https://github.com/dedaFSdeveloper/ai-character-chat) | Chat with fictional characters using Google Gemini — [live demo](https://proyecto-m3-ezequiel-molinari-ycvj.vercel.app) | Node.js, Gemini, Vercel |
-| [gestion-productos](https://github.com/dedaFSdeveloper/gestion-productos) | Product management REST API with CRUD, search, stock | NestJS, TypeORM, PostgreSQL |
+| [gestion-productos](https://github.com/dedaFSdeveloper/gestion-productos) | Product management REST API with CRUD, search, stock. 20 unit tests + CI | NestJS, TypeORM, PostgreSQL, Jest |
 | [ai-sales-chat-prototype](https://github.com/dedaFSdeveloper/ai-sales-chat-prototype) | Conversational AI sales assistant prototype — [live demo](https://llmtesting.vercel.app) | Next.js, Gemini |
 
 ---
