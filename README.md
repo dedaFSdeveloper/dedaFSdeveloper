@@ -48,6 +48,7 @@ Construyo sistemas reales: CRMs con IA para WhatsApp, integraciones de APIs y au
 
 | Project | Description | Stack |
 |---|---|---|
+| [whatsapp-lead-qualifier](https://github.com/dedaFSdeveloper/whatsapp-lead-qualifier) | Qualifies WhatsApp sales chats with an LLM: structured lead profile, deterministic 0-100 score and human-handoff detection. 24 tests + CI | TypeScript, Gemini, Zod, Vitest |
 | [crm-whatsapp-api](https://github.com/dedaFSdeveloper/crm-whatsapp-api) | CRM to manage AI-powered WhatsApp chatbots, WhatsApp-native UI | Node.js, WhatsApp Business API, LLM |
 | [github-mcp-server](https://github.com/dedaFSdeveloper/github-mcp-server) | MCP server so AI agents operate on GitHub (repos, issues, PRs) in natural language. 26 tests | TypeScript, Node.js, Octokit, Zod, Vitest |
 | [task-manager](https://github.com/dedaFSdeveloper/task-manager) | Task SPA with auth and email notifications — [live demo](https://proyecto-m4-ezequiel-molinari.vercel.app) | React, TypeScript, Firebase, AWS SES, Vitest |
