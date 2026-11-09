@@ -9,6 +9,7 @@ Construyo sistemas reales: CRMs con IA para WhatsApp, integraciones de APIs y au
 <p align="center">
 <a href="https://www.linkedin.com/in/ezmolinari12/"><img src="https://img.shields.io/badge/LinkedIn-ezmolinari12-0A66C2?style=flat-square&logo=linkedin"></a>
 <a href="mailto:molinariezequiel2@gmail.com"><img src="https://img.shields.io/badge/Email-molinariezequiel2%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://dedafsdeveloper.github.io/"><img src="https://img.shields.io/badge/Website-servicios-128C5E?style=flat-square&logo=googlechrome&logoColor=white"></a>
 <a href="https://libreriacrayon.com.ar"><img src="https://img.shields.io/badge/Live%20project-libreriacrayon.com.ar-2ea44f?style=flat-square"></a>
 </p>
 
@@ -22,6 +23,7 @@ Construyo sistemas reales: CRMs con IA para WhatsApp, integraciones de APIs y au
 - 🤖 Interested in AI inside developer workflows (MCP servers, agents, LLM integrations).
 - 🎓 Henry Full Stack graduate · BSc Physics student · English C2.
 - 📍 Buenos Aires — open to remote / hybrid / international roles.
+- 💼 **Available for freelance:** WhatsApp AI assistants, websites, custom systems and automations → [dedafsdeveloper.github.io](https://dedafsdeveloper.github.io/)
 - 📫 **Contact:** molinariezequiel2@gmail.com · [LinkedIn](https://www.linkedin.com/in/ezmolinari12/)
 
 ---
